@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/jest": "^26.0.15",
-    "@types/leaflet": "^1.7.5",
+    "@types/leaflet": "^1.7.8",
     "@types/node": "^16.11.10",
     "@types/react": "^16.9.56",
     "@types/react-dom": "^16.9.9",
